@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
 - I’m Monira Moni. I’m a Junior Front-End Web Developer. As a front-end developer, creativity and enthusiasm are my choices. I love learning new things and working on them.
 
