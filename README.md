@@ -26,6 +26,22 @@
 <br/>
 
 
+## Recent Projects
+
+
+- [**[necklace.com](https://necklace-com.web.app/)**] Necklace is a niche site that deals with selling different types of necklaces.
+
+- [**[minor-hotel.com](https://minor-hotel.web.app/)**] Minor is a hotel booking service site.
+
+- [**[medicare.com](https://medicare-webs.web.app/)**] Medicare is a hospital service site
+  
+ <h3 align="center" style="padding:15px 10px 40px 10px;"></h3> 
+
+<br/>
+<br/>
+
+
+
 ## Connect with me:
 <p align="left">
 
