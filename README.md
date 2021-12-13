@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Monira Moni</h1>
 <h3 align="center" style="padding:15px 10px 50px 10px;">I’m a Junior FrontEnd Web Developer</h3>
 
+<br/>
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -20,6 +22,10 @@
   
  <h3 align="center" style="padding:15px 10px 40px 10px;"></h3> 
 
+<br/>
+<br/>
+
+
 ## Connect with me:
 <p align="left">
 
@@ -29,6 +35,9 @@
 
 </p>
 <h3 align="center" style="padding:15px 10px 30px 10px;"></h3> 
+
+<br/>
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -73,6 +82,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
 <br/>
 <br/>
 
