@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/QjGmyyZ/Linked-In-Cover-Moni.png" height="175px" style="border:2px solid white;" /></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/QjGmyyZ/Linked-In-Cover-Moni.png" height="175px" style="border:2px solid #0ccead;" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Monira Moni</h1>
 <h3 align="center" style="padding:15px 10px 50px 10px;">I’m a Junior FrontEnd Web Developer</h3>
